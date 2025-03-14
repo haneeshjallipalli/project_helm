@@ -1,5 +1,3 @@
-# project_helm
-
 # Helm: End-to-End Guide
 
 ## 1️⃣ Introduction to Helm
